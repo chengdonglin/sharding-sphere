@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Sharding-jdbc-level-split-table</module>
+        <module>sharding-jdbc-level-split-database</module>
     </modules>
 
     <parent>
