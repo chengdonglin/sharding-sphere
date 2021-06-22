@@ -1,4 +1,4 @@
-package com.lcd.sharding.db;
+package com.lcd.sharding.db.mapper.db;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

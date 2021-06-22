@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.lcd.sharding.mapper.OrderMapper">
-  <resultMap id="BaseResultMap" type="com.lcd.sharding.entity.Order">
+<mapper namespace="com.lcd.sharding.db.mapper.mapper.OrderMapper">
+  <resultMap id="BaseResultMap" type="com.lcd.sharding.db.mapper.entity.Order">
     <!--@mbg.generated-->
     <!--@Table order_1-->
     <id column="order_id" jdbcType="BIGINT" property="orderId" />

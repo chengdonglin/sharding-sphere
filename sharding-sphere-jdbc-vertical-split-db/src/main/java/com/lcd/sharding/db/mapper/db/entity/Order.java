@@ -1,4 +1,4 @@
-package com.lcd.sharding.db.entity;
+package com.lcd.sharding.db.mapper.db.entity;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;

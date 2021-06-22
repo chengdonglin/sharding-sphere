@@ -11,6 +11,7 @@
     <modules>
         <module>Sharding-jdbc-level-split-table</module>
         <module>sharding-jdbc-level-split-database</module>
+        <module>sharding-sphere-jdbc-vertical-split-db</module>
     </modules>
 
     <parent>

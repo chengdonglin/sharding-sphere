@@ -1,8 +1,8 @@
-package com.lcd.sharding.mapper;
+package com.lcd.sharding.db.mapper.mapper;
 
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.lcd.sharding.entity.Order;
+import com.lcd.sharding.db.mapper.entity.Order;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;
